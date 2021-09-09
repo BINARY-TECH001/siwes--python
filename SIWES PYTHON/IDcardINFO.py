@@ -1,0 +1,8 @@
+print("FEDERAL COLLEGE OF ANIMAL HEALTH AND PRODUCTION TECHNOLOGY \n        Moor Plantation P.M.B. 5029,Ibadan.")
+print("Surname: ABDULRAFIU")
+print("Other Names: Mubarak Ishola")
+print("Matric no: NDCOM/19/303")
+print("Course: COMPUTER SCIENCE TECHNOLOGY")
+print("Level: ND 1")
+print("Holder`s Signature: _____________")
+print("      VALID FOR ONE ACADEMIC YEAR")
